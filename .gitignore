@@ -1,0 +1,11 @@
+# Ignore object files and binaries
+*.o
+program
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+

@@ -1,0 +1,10 @@
+{
+  "name": "C Programming Dev Environment",
+  "image": "gcc:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.cpptools"]
+    }
+  },
+  "features": {}
+}
